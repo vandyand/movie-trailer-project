@@ -11,4 +11,4 @@ Simply clone the repository to your system and run entertainment_center.py.
 Note: All files must be in the same directory.
 
 ## License
-Using MIT License. See LICENSE.txt for details.
+Using MIT License. See [LICENSE.txt](https://github.com/vandyand/movie-trailer-project/blob/master/LICENSE.txt) for details.
