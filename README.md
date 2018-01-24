@@ -6,4 +6,9 @@ Developer Nanodegree. Here are a list of steps I took to set up the site:
 * entertainment_center.py calls the Movies class to create objects for several movies like Toy Story and Avatar.
 * fresh_tomatoes.py is used to generate the html code and display the site on a web browser via the webbrowser module.
 
-Enjoy!
+## How to Use
+Simply clone the repository to your system and run entertainment_center.py.
+Note: All files must be in the same directory.
+
+## License
+Using MIT License. See LICENSE.txt for details.
