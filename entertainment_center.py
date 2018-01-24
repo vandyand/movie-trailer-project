@@ -71,11 +71,11 @@ breaking_bad = media.TVShow("Breaking Bad",
                             "https://www.youtube.com/watch?v=EkHTPHQKFPo")
 
 #Make a list of movie objects to send to fresh tomatoes module
-movies = [toy_story, avatar, lotr_fotr, new_girl, we_were_soldiers, 
+videos = [toy_story, avatar, lotr_fotr, new_girl, we_were_soldiers, 
           the_shop_around_the_corner, pacific_rim, parks_and_rec, breaking_bad]
 
 #Fresh tomatoes creates the html file and opens it in a browser
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(videos)
 
 
 
