@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 22 13:04:42 2018
 
-@author: dell
+@author: vandyand
 """
 
 import media
