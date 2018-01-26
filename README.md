@@ -10,8 +10,8 @@ Developer Nanodegree. Here are a list of steps I took to set up the site:
 Python 3.6
 
 ## How to Use
-* Clone repository to your system.
-* Make sure all all files are in the same directory
+* Download code or clone repository to your system.
+* Make sure all files are in the same directory.
 * Run entertainment_center.py
 * Website will automatically boot up with some of my favorite movies and tv shows. Enjoy!
 
